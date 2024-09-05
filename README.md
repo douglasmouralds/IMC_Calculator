@@ -1,4 +1,4 @@
-##🧮 Calculadora de IMC e Outras Funcionalidades##
+🧮 Calculadora de IMC e Outras Funcionalidades
 
 Este projeto é uma Calculadora de IMC desenvolvida em Kotlin para Android, com o objetivo de ser o ponto de partida para um aplicativo mais robusto que irá oferecer uma série de calculadoras úteis, como:
 
